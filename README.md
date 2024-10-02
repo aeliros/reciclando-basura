@@ -1,24 +1,12 @@
+# GHBit
 
-> Abra esta pagina en [https://aeliros.github.io/reciclando-basura/](https://aeliros.github.io/reciclando-basura/)
+Extension for Yahboom GHBit_V1/V2 3.0.2
 
-## Usar como extensión
+## License
 
-Este repositorio puede ser añadido como una **extensión** en MakeCode.
+MIT
 
-* abra [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* haga clic en **New Project**
-* haga clic en **Extensiones** en el menú del engranaje
-* buscar **https://github.com/aeliros/reciclando-basura** e importar
-
-## Edita este proyecto
-
-Para editar este repositorio en MakeCode.
-
-* abra [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* haga clic en **Import** luego haga clic en **Import URL**
-* pegue **https://github.com/aeliros/reciclando-basura** y haga clic en importar
-
-#### Metadatos (utilizados para búsqueda, renderizado)
+## Supported targets
 
 * for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+(The metadata above is needed for package search.)
